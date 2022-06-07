@@ -50,4 +50,4 @@ Kalule Arthur
 
 ## Acknowledgements
 
-Big thanks to LFA's and fellow colleagues at [Andela](https://andela.com) for reviewing the project and the guiding on the basic principles.
+Big thanks to LFA's and fellow colleagues at [Andela](https://andela.com) for reviewing the project and guiding on the basic principles.
